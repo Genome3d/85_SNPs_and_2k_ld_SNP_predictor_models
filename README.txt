@@ -6,7 +6,7 @@
 # AUC prediction result adult and fetal brain tissue model : 0.45
 # AUC prediction result colon tissue model : 0.70
 
-
+# The PHENOTYPE is defined using plink format that "1" is control and "2" is case. 
 
 # Input file of 85_2k_ld_SNP_predict.py is assumed to be plink raw format genereated by "plink --recode A"
 # with plink format files (bed, bim and fam).
